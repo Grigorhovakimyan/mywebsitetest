@@ -1,0 +1,398 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1440px;
+    margin: auto;
+    background: #F3FCF7;
+}
+nav{
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.navbar>ul>li{
+    list-style-type: none;
+
+}
+.logo{
+    margin: 25px 150px;
+    color: green;
+}
+
+.menu{
+    margin: 25px;
+    display: flex;
+    font-size: 18px;
+    gap: 30px;
+}
+.navbar>ul>li>a{
+    text-decoration: none;
+}
+.tet{
+    font-size: 40px;
+    margin: 100px 150px;
+    width: 48%;
+}
+h1{
+    font-size: 30px;
+    color: #06C167;
+}
+.text>p{
+    font-size: 16px;
+}
+article{
+    display: flex;
+}
+.btt{
+    margin: 50px 0 0 0;
+    width: 180px;
+    height: 80px;
+    background: #06C167;
+    color: #F3FCF7;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.img_one{
+    width: 50%;
+    object-fit: cover;
+}
+img{
+    Width: 468px;
+    Height: 634px;
+}
+.logo_content{
+    padding: 25px 35px 135px 0  ;
+    justify-content: end;
+    gap: 90px;
+    display: flex;
+    width: 55%;
+
+}
+.logo_ipsum{
+    width: 155.189px;
+    height: 35.841px;
+}
+.one{
+    width: 100%;
+}
+.section{
+    max-width: 1215px;
+    margin: auto;
+    border-top: 1px solid rgba(0, 0, 0, 0.56);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.56);
+    padding: 5px;;
+    display: flex;
+    justify-content: space-around;
+}
+.box{
+    width: 250px;
+    height: 158px;
+}
+.box{
+    padding: 40px 0px;
+    gap: 10px;
+}
+.text_icon{
+    margin: auto;
+}
+.icon{
+    width: 70px;
+    height: 70px;
+}
+.vegetables{
+    width: 445px;
+    height: 513px;
+    position: absolute;
+    padding: 0 45px;
+}
+
+.img_two{
+    width: 445px;
+    height: 513px;
+}
+.container-two{
+    margin: auto;
+    max-width: 1440px;
+    display: flex;
+}
+.text-tables>h2{
+    font-size: 40px;
+    padding: 60px 0;
+}
+.text-tables>ul>li{
+    font-size: 18px;
+    padding: 19px 0;
+    list-style-type: none;
+}
+.text-tables{
+    width: 30%;
+    min-height: 400px;
+    margin: 132px 0;
+    position: relative;
+
+}
+.iconik{
+    width: 25.998px;
+    height: 19.387px;
+}
+.icon-green{
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    bottom: 106px;
+    gap: 39px;
+    left: -35px;
+}
+.right-content{
+    margin: 0 135px;
+    width: 45%;
+}
+.left-content{
+    width: 45%;
+}
+.back_color-two{
+    width: 541px;
+    height: 608px;
+    background: #F3FAFB;
+    display: flex;
+    justify-content: flex-end;
+}
+.h_two{
+    margin: auto;
+    font-size: 35px;
+    width: 570px;
+    padding: 0 0 30px 0;
+}
+.photo{
+    width: 445px;
+    height: 513px;
+}
+.select{
+    width: 95%;
+    min-height: 180px;
+    display: flex;
+}
+.box-one{
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+.box-one>h3{
+    font-size: 50px;
+    color: #06C167;
+    gap: 10px;
+}
+.head{
+    margin: auto;
+    width: 100%;
+    min-height: 185px;
+    text-align: center;
+}
+.head>h2{
+    font-size: 70px;
+}
+.container-tree{
+    width: 80%;
+    margin: auto;
+}
+.flex{
+    min-height: 585px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box-two{
+    width: 292.5px;
+    height: 292.5px;
+    border:  1px  solid #06C167;
+    background: #F3FCF7;
+}
+.box-text{
+    width: 250px;
+    height: 280px;
+    margin: 30px;
+
+
+}
+.box-text>h3{
+    font-size: 45px;
+    margin: 0 0 30px 0;
+}
+.box-text>p{
+    font-size: 22px;
+    margin: 0 0 8px 0;
+}
+.nkar{
+    width: 292.5px;
+    height: 292.5px;
+}
+.button{
+    width: 150px;
+    height: 42px;
+    background: #E6F9F0;
+    color: #06C167;
+    border: none;
+    box-shadow: 1px 2px 3px black;
+}
+
+.cont{
+    max-width: 1215px;
+    margin: 100px  auto;
+}
+.row{
+    display: flex;
+}
+.imageonetwo{
+    width: 48%;
+    background: #ffffff;
+}
+.texxt{
+    width: 48%;
+    background: #ffffff;
+    padding: 90px;
+}
+.texxt>h2{
+    font-size: 40px;
+    padding: 50px;
+}
+.texxt>ul>li{
+    margin: 10px 0;
+    padding: 15px;
+}
+.texxxt{
+    width: 48%;
+
+}
+.box h2{
+    font-size: 35px;
+    color: #06C167;
+}
+.cnt{
+    width: 48%;
+    height: 220px;
+    display: flex;
+}
+.boxxx{
+    width: 35%;
+    height: 180px ;
+
+}
+.back{
+    width: 80%;
+    background: #E6F9F0;
+    min-height: 600px;
+    display: flex;
+}
+.imggg{
+    width: 75%;
+    height: 500px;
+    justify-content: center;
+    margin: 0 60px;
+}
+.one{
+    justify-content:flex-end;
+
+}
+.one imggg{
+    margin: 0 ;
+}
+.klor{
+    margin: 20px 0;
+    width: 190px;
+    height: 190px;
+}
+.star{
+    margin: 0 40px;
+    width: 99.3px;
+    height: 14.6px;
+}
+.box-tree{
+    display: flex;
+    flex-direction: column;
+    padding: 0 40px;
+    width: 270px;
+    height: 445px;
+    border:1px solid #06C167;
+    text-align: center;
+    gap: 5px;
+}
+.miban {
+    padding: 20px 0;
+    text-align: center;
+    gap: 25px ;
+}
+.most{
+    align-items: center;
+    margin:auto;
+}
+.most h3{
+    width: 100%;
+    font-size: 45px;
+}
+.dolar{
+    color: #767675;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration:line-through ;
+}
+.price{
+    color:  #06C167;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.container-for{
+    margin: auto;
+    max-width: 1215px;
+    min-height: 700px;
+    display: flex;
+    justify-content: space-around;
+}
+.container-five{
+    max-width: 1215px;
+    margin: auto;
+}
+.background-imag{
+    margin: auto;
+    position: relative;
+    display: flex;
+}
+.Rectangle{
+    position: absolute;
+    width: 100%;
+    object-fit: cover;
+}
+.Veggie{
+    width: 100%;
+    display: flex;
+    position: relative;
+    z-index: 1;
+    min-height: 300px;
+    color: white;
+    align-items: center;
+    margin: 0 280px;
+}
+.Veggie_Foods{
+    font-size: 60px;
+}
+.box-tree:hover{
+    box-shadow: 1px 2px 2px black;
+    border: 2px solid cornflowerblue;
+}
+.box-two:hover{
+    box-shadow: 1px 2px 2px black;
+    border: 2px solid cornflowerblue;
+}
+.btt:hover{
+    box-shadow: 1px 2px 2px black;
+}
+.menu>li>a:hover{
+    color: #009b00;
+}
